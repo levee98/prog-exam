@@ -1,0 +1,46 @@
+1. feladat
+A POSIX a szabványok családjának összefoglaló neve
+
+2. feladat
+
+X11:
+az X11 egy megjelenítési rendszer
+
+3. feladat
+
+Az alapvető (standard) bemenetet és kimenetet határozza meg
+stdin: standard bemenet, általában a billentyűzet
+
+stdout: általában a képernyő, de akár fájlba is lehet a kimenetet íratni
+
+4. feladat
+
+a daemonok a linux/UNIX operációs rendszerekben a háttérben futó folyamatai.
+
+5. feladat
+
+/bin: a futtatható programokat tartalmazó könyvtár
+
+/etc: olyan fájlokat tartalmaz, melyek a rendszeren futó alkalmazások alapvető beállításaival kapcsolatosak (rendszerkonfigurációs fáljok)
+
+/usr: a legnagyobb könyvtár általában a rendszerben, azok a fájlok/könyvtárak vannak benne, amelyek futtatható parancsokat, függvénykönyvtárakat, forrásokat, ideiglenes fájlokat, stb. tartalmaznak
+
+/home: a rendszer felhasználóinak saját fájljai találhatók ebben a könyvtárban, a bejelentkezett felhasználó csak a saját fájljait láthatja
+
+6. feladat
+
+a ponttal kezdődő fájlok a rejtett fájlokat jelentik
+
+
+7. feladat
+
+relatív útvonal:
+../másik könyvtár/fájlnév
+(az eggyel fentebb lévő könyvtár <másik_könyvtár> könyvtárának <fájlnév> nevű fájljára mutat
+
+abszolút útvonal:
+
+~/<könyvtár0>/<könyvtár1>/<fájlnév>
+(a gyökérkönyvtárból kiindulva merül megadásra a fájl elérhetősége)
+
+
